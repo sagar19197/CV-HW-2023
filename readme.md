@@ -1,3 +1,3 @@
-# Computer Vision 2023 Assignments Repository
+# Computer Vision 2023 Assignment-3
 
-Each Assigment is present in seperate branchs.
+This Branch Contains code for Assignment-3.
